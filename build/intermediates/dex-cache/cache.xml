@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/2c59b9e7e60881872e7c58766c198340346bf47d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_9a4233db3ad080a74ea48341cf99856b1d17fbc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/abcf67554a8958c06b07d334be0bacb2115e0d77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_c966b8e93347937a80b5314de35a65efbbd40765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/Projects/TestApplication/floaters/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c31a5a82758ffbb8298b4adbbc0871961aa563">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_3bf738e0895546a815b6b3e7718e60217b927210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/f8d10881a359b6ca9cdcfc8c2d6afb329fa1b7a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_aa67eebce55e5b753bf65c00863ac380809024db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_cacd84cc11b7c87ff92850288a50933b1e53ef46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/4774fc659621184b8d0d025bce4c814bcc609357/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_0c387af67afbfa7e2208dd42f157cfac0d98a8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2c28ae13223cab695d958128aad89cf23dfd789c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/252fd88e66efacee6eb0b739dc2517eeea206220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_54ba0223332c316e6e03fb839fc0ae918f5ccdd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/9e573b3d9bd46cd1477e4647a1fa3bea4f3d2b75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_5da1ec6d0edc6f6d02103c29eafbfc4e65ed4fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/c7d7af31b7dc6c1ae46529569d752d4c04d1c146/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_20a95629ccf6b04dfd53202e094fc619cfd33efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/accb7389ffbf77b2038108320d8583c8e1da0283/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_0770770be03225f7a4a0f4a4712df8f7ee3f42df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/1b69d120d5f3e29bbf09d9dc2b909b0df13c6254/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_09d64e6ea5a1bf71f4af13396b3d9e97ccd47b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rchandnani/.android/build-cache/3050a5b803fb19eed19ff2a36cd76b06797f12a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/rchandnani/Projects/TestApplication/app/build/intermediates/pre-dexed/debug/classes_b190918dc5896bdbea01a9bfb737f22274b96c04.jar" />
+    </item>
+
+</items>
